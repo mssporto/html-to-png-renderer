@@ -1,0 +1,17 @@
+# Claude Code internal worktrees
+.claude/
+
+# Python artefacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Runtime logs
+*.log
